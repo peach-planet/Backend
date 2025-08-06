@@ -341,4 +341,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Windows Installer cache files
+myvenv/
+
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,django,python,macos,windows
